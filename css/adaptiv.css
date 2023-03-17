@@ -1,0 +1,31 @@
+@media only screen and (max-width:1200px) {
+    #main .inner >.description{
+        min-width: 80%;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    #main .inner >.h1{
+        font-size: 50px;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    header
+    {padding: 0 15px;
+    position: relative;
+    }
+}
+
+@media only screen and (max-width:480px) {
+    main .inner> h1{
+        font-size: 15px;
+        margin-top: 5px;
+    }
+}
+
+@media only screen and (max-width:320px) {
+    #main .inner >.description{
+        min-width: 80%;
+    }
+}
